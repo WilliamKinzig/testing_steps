@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.Tests.deps.json
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.Tests.runtimeconfig.json
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/obj/Debug/netcoreapp1.1/BillsApp.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.Tests.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.Tests.pdb
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/bin/Debug/netcoreapp1.1/BillsApp.pdb
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/obj/Debug/netcoreapp1.1/BillsApp.Tests.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp.Tests/obj/Debug/netcoreapp1.1/BillsApp.Tests.pdb

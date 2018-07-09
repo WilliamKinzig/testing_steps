@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/bin/Debug/netcoreapp1.1/BillsApp.deps.json
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/bin/Debug/netcoreapp1.1/BillsApp.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/bin/Debug/netcoreapp1.1/BillsApp.pdb
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/obj/Debug/netcoreapp1.1/BillsApp.AssemblyInfo.cs
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/obj/Debug/netcoreapp1.1/BillsApp.dll
+/Users/Guest/Desktop/BillsApp.Solution/BillsApp/obj/Debug/netcoreapp1.1/BillsApp.pdb
